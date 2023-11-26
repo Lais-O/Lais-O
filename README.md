@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lais-O
 - 👀 I’m interested in music
-- 🌱 I’m currently learning books
+- 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
